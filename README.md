@@ -1,5 +1,5 @@
 
-# Cyolo (home assignment).
+# Cyolo (image uploader and expiry checker).
 
 Full-Stack application for Cyolo.  
    
